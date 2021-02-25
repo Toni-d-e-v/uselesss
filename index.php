@@ -1,4 +1,4 @@
-<h1>Ussles webiste:</h1>
+<h1>Ussles webiste.com:</h1>
 
 <?php
 if( isset($_GET['submit']) )
